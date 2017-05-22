@@ -1,12 +1,10 @@
-# [RU2] Kielioppi
+# [RU2] Kielioppi - Lukusanat
 
-
-## Lukusanat
 - Yleensä lukusanat eivät taivu. (Poikkeus: en/ett)
 - Luvun jälkeen substantiivi **epämääräisessä muodossa**
-> Jag har **en bil** men du har **två bilarna**
+  - Jag har **en bil** men du har **två bilarna**
 
-### Aika
+## Aika
 - Klockan är ...
   - ...(prick) åtta
   - ...half sex (puoli kuusi)
@@ -20,12 +18,12 @@
   - tre och en halv timme
   - fem och **ett** half**t** år (koska ett år)
   
-### Hinnat
+## Hinnat
 - 20 euro **(ei taivu)**
 - 20 kronor **(taipuu)**
 - 12,50 = *tolv och femtio*
 
-### Vuosiluvut
+## Vuosiluvut
 - *år*-sanan eteen **ei artikkelia**
 - 1970  =  *nittonhundra sjuttio*
 - 2001  =  *tvåtusenett* / *tjugohundraett*
@@ -35,13 +33,13 @@
 - **i mitten av/på** 80-talet
 - **i slutet av/på** 80-talet
 
-### Ikä
+## Ikä
 - Hon är 17 **år**.
 - Hon är **en 18-årig** kvinna. (subst. epäm.)
 - Hon är en kvinna **på 18 år**.
 - Han fick en flickvän **vid femton års ålder**
 
-### Määrä
+## Määrä
 - **ett par** killar
 - **cirka/kring/ungefär** = noin/suunnilleen
 - **drygt** = runsaat
@@ -51,14 +49,14 @@
 - **liter** = litraa
 - **kilo** = kiloa
 
-## Järjestysluvut
+# Järjestysluvut
 artikkeli | järjestysluku | substantiivi
 --------- | --------- | ------
 den/det/de|första, andra, tredje, fjärde, femte, sjätte, sjunde, åttonde, nionde, tionde, elfte, tolfte, trettonde|bilen
 substantiivin mukaan | | **määräisessä muodossa!**
-**PAITSI** *för andra gången* *i femte våningen* ||| **PAITSI** Omistussanan jälkeen **epämääräinen** *Min tredje dator*
+**PAITSI** *för andra gången* *i femte våningen* || **PAITSI** Omistussanan jälkeen **epämääräinen** *Min tredje dator*
 
-### Päivämäärät
+## Päivämäärät
 17. toukokuuta
 > den sjuttonde maj
 
