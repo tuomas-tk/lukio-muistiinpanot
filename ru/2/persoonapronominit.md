@@ -29,8 +29,37 @@ de | dem | deras
 > Jag gav henne en present
 
 - Prepositioiden jälkeen
-> Väntade du på oss?
-
-> Tycker hon om mig?
-
+> Väntade du på oss?  
+> Tycker hon om mig?  
 > Hon skrev till mig!
+
+## Omistusmuoto
+
+- "Kenen"
+
+### OMISTUSMUODON JÄLKEEN
+- ADJEKTIIVI **AINA A-MUODOSSA**
+- SUBSTANTIIVI **EPÄMÄÄRÄINEN**
+
+> min nya bil   (en bil)  
+> mitt dyra hus (ett hus)  
+> mina härliga kompisar (monikko)
+
+### Viittaus saman lauseen subjektiin - sin / sitt / sina
+- taivutus substantiivin mukaan, **EI viitattavan tekijän**
+> Han träffade **sin** lärare.  
+> Han och **hans** lärare träffade mig.
+- **ei koskaan osana subjektia**
+
+## Relfeksiivipronominit
+- Käytetään kun tekemisen kohteena tekijä itse
+- Valitaan lauseen subjektin mukaan
+
+PERUSMUOTO | REFLEKSIIVIMUOTO
+---------- | ----------------
+Jag | mig
+Du  | dig
+Han/hon | **sig**
+Vi  | oss
+Ni  | er
+De  | **sig**
