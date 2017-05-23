@@ -34,3 +34,24 @@ Kolme tapaa vertailla
 - muista taivuttaa adjektiivi: glad, glatt, glada / dyr, dyrt, dyra / liten, litet, lilla, små
 
 ## Komparatiivi
+- **än** = kuin
+- muista että kun muodostetaan sanalla mer(a), **adjektiivi taipuu**
+  - paitsi jos loppuu -ande tai -ende
+  
+## Superlatiivi
+### Lyhyt
+- Jag är bäst
+- muista: jos muodostetaan sanalla mest, **adjektiivi taipuu**
+  - paitsi jos loppuu -ande tai -ende
+### Pitkä
+- adjektiivin loppuun lisätään yleensä **e** tai **a**
+- Substantiivin edessä
+  - DEN/DET/DE - adjektiivi - substantiivin määräinen muoto
+  - Jag har den dyraste bilen.
+  - Du har de finaste böckerna.
+- omistussanan jälkeen
+  - Min största bilen är röd.
+  - Jag har världens finaste företag.
+  - HUOM tässä substantiivi tulee omistuksesta johtuen **epämääräiseen** muotoon
+- som-lauseen edellä
+  - Glass är det bästa som jag har smakat.
