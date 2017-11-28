@@ -1,6 +1,6 @@
 # [RU4] Kielioppi - apuverbit
-- få, får, fick, fått
-- kunna, kan, kunde, kunnat
+- få, får, fick, fått = **saada**
+- kunna, kan, kunde, kunnat = **osata, voida**
 - vilja, vill, ville, velat  =  **haluta**
 - ska = **aikoa, pitää**
 - skulle = **-isi, piti**
