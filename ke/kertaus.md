@@ -49,13 +49,15 @@
 **TODO** kaavioita tähän
 
 ## Vahvat sidokset
-**Lyhyesti:**
-### Metallit reagoivat **luovuttamalla** viimeisiäkin ulkoelektonejaan pois
-### Epämetallit **ottavat vastaan** lisää elektroneja täydentämään lähes täyttä elektronikuortaan
-**Seuraa erilaisia sidoksia:**
+Yksinkertaisesti sanottuna:
+### 1) Kemialliset sidokset syntyvät ulkoelektronien avulla (siirtymämetalleilla poikkeuksia)
+### 2) Metallit reagoivat **luovuttamalla** viimeisiäkin ulkoelektonejaan pois
+### 3) Epämetallit **ottavat vastaan** lisää elektroneja täydentämään lähes täyttä elektronikuortaan
+Seuraa erilaisia sidoksia:
 ### Ionisidos (metalli - epämetalli)
 - **metalli luovuttaa elektroneja** (hapettuu, hapetusluku positiivinen, muodostaa positiivisen ionin),
 - **epämetalli vastaanottaa elektroneja** (pelkistyy, hapetusluku negatiivinen, muodostaa negatiivisen ionin)
+- tämä on vain yksinkertaistus: moniatomiset ionit eivät ole metalleja tai epämetalleja
 - **molemmat saavat oktetin**
 - atomeilla erimerkkiset sähkövaraukset: **vetävät toisiaan puoleensa**
 - atomit asettuvat mahdollisimman lähelle toisiaan, kiinteissä aineissa eivät liiku liian nopeasti jolloin jäävät kidemuotoon, muodostaen **ionihilan**
@@ -69,12 +71,13 @@
 - voi olla yksin-, kaksin- tai kolminkertainen
 - yhteen kovalenttiseen sidokseen osallistuu parittomat elektronit molemmilta atomeilta: molemmat atomit saavat elektronilleen parin
 - jos kovalenttisen sidoksen atomien elektronegatiivisuudet ovat erisuuret, yhteiset elektronit ovat enemmän elektronegatiivisemman atomin puolella
-  - >> molekyyliin syntyy **osittaisvarauksia**
-  - >> sidoksesta, ja siten usein myös molekyylistä, tulee **poolinen**, eli se sisältää **pysyviä dipoleja**
+  - molekyyliin syntyy **osittaisvarauksia**
+  - sidoksesta, ja siten usein myös molekyylistä, tulee **poolinen**, eli se sisältää **pysyviä dipoleja**
 - atomin vapaat elektroniparit ovat saaneet parin ilman sidoksia: eivät siis enää reagoi
 - jotkin atomit muodostavat **kovalenttisen hilan** jossa on hyvin paljon atomeita sitoutuneena toisiinsa samanlaisilla kovalenttisilla sidoksilla
   - atomit muodostavat säännöllisen "verkoston"
   - esim. hiilen eri *allotroopeilla* (timantti, grafiitti) on kovalenttinen hila
+#### Kovalenttisen- ja ionisidoksen raja on häilyvä TODO lisää tästä
 
 ## Heikot sidokset
 **Lyhyesti: vastakkaismerkkiset (osittais)varaukset vetävät toisiaan puoleensa**
@@ -97,6 +100,9 @@
 
 
 # KE2 Orgaaninen kemia
+
+
+
 ## Orgaaninen = sisältää hiiltä
 - Hiili on yksi harvoista alkuaineista, jotka pystyvät muodostamaan pitkiä ketjuja kovalenttisten sidoksien avulla
 - Monimutkaiset hiilivedyt ovat käytännössä elämän edellytys: lähes kaikki eliöiden molekyylit sisältävät hiiltä. Tästä nimi *orgaaninen* kemia.
@@ -106,7 +112,7 @@
 - Erilaisia "erikoisuuksia" hiiliketjussa
 - Nimensä mukaisesti toimivat: orgaanisten yhdisteiden reaktiot perustuvat funktionaalisiin ryhmiin
 - samoja funktionaalisia ryhmiä sisältävät yhdisteet reagoivat samalla tavalla: kun tiedät miten jokin funktionaalinen ryhmä reagoi, tiedät miten kaikki sitä sisältävät molekyylit reagoivat!
-- opettele ryhmiä Quizletin avulla:
+- opettele ryhmiä Quizletin avulla: [https://quizlet.com/189477351/learn](https://quizlet.com/189477351/learn)
 
 ### Alkaanit (ei funktionaalisia ryhmiä)
 - sisältävät ainoastaan yksinkertaisia hiili-hiili sidoksia
@@ -165,6 +171,7 @@
 - ei voi hapettua
 - voi pelkistyä aldehydiksi
 - tyypillisiä reaktioita myös protolysoituminen, neutraloituminen ja esteröityminen
+- nimetään *-happo*
 
 
 ### Esterit (-COO-)
