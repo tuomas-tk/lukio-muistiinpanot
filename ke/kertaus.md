@@ -65,6 +65,7 @@ Seuraa erilaisia sidoksia:
 ### Metallisidos (metalli - metalli)
 - alkuaineena metallit muodostavat metallisidoksen, jossa ne **ovat luovuttaneet ulkoelektroninsa pois** *"elektronien mereksi"* atomiydinten ympärille
 - elektronit pitävät aineen kasassa
+- mitä enemmän valenssielektroneja atomit pystyvät luovuttamaan "mereen", sitä vahvemmin aine pysyy kasassa
 - vapaat elektronit selittävät sähkönjohtavuuden
 ### Kovalenttinen sidos (epämetalli - epämetalli)
 - epämetallit pyrkivät vastaanottamaan elektroneja, joten **muodostavat keskenään sidoksen ottamalla ulkoelektroneja yhteiseen käyttöön**
@@ -99,7 +100,7 @@ Seuraa erilaisia sidoksia:
 
 
 
-# KE2 Orgaaninen kemia
+# KE2-KE3 Orgaaninen kemia ja orgaaniset reaktiot
 
 
 
@@ -176,6 +177,7 @@ Seuraa erilaisia sidoksia:
 
 ### Esterit (-COO-)
 - nimetään *"-oaatti"*
+- kondensaatioreaktio: "happo + viina -> esteri + vesi"
 
 ### Eetterit (-O-)
 
@@ -183,14 +185,26 @@ Seuraa erilaisia sidoksia:
 
 ### Amidit / amidiryhmä (-CO-NH-) HÄH?
 
-### Alkyylihalidit
+### Alkyylihalidit = haloalkaanit
+- halogeeni kiinni hiiliketjussa
 
+
+## Orgaaniset reaktiot
+
+
+### Protoninsiirtoreaktio
+
+### Substituutioreaktio
+
+### Additio ja eliminaatio
+
+### Kondensaatio
 
 
 
 
 ## Hiiliyhdisteiden nimeäminen
-Tulossa jos tulossa
+Selkeät ohjeet kirjassa tai netissä.
 
 # Hienoja löytöjä
 - Hapon konjugaattiemäs syntyy kun happo luovuttaa protonin - kun emäs vastaanottaa protonin, syntyy sitä vastaava konjugaattihappo.
