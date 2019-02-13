@@ -1,4 +1,4 @@
-# Pitkä matematiikka - muisttavia outouksia
+# Pitkä matematiikka - muistettavia outouksia
 
 ## Itseisarvot
 Muotoa
@@ -9,16 +9,27 @@ Muotoa
 
 olevien yhtälöiden ratkaisussa tulee huomioida, että
 
-`|f(x)|<0 kaikilla x,`
+```
+|f(x)|<0 kaikilla x,
+```
 
 joten x:n tulee toteuttaa yhtälö
 
-`g(x) > 0`
+```
+g(x) > 0
+```
 
 ja joko
 
-`f(x) = g(x)`
+```
+f(x) = g(x)
+```
 
 tai
 
-`f(x) = -g(x)`
+```
+f(x) = -g(x)
+```
+
+## Tilastot ja todennäköisyys
+Tiheysfunktion arvot eivät kuvaa todennäköisyyksiä tietyissä kohdissa, vaan ainoastaan todennäköisyysjakauman vaihtelua

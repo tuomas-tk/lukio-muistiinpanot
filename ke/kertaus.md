@@ -189,33 +189,110 @@ Seuraa erilaisia sidoksia:
 - halogeeni kiinni hiiliketjussa
 
 
+## Epäorgaaniset reaktiot
+
+### Protoninsiirtoreaktiot = protolyysireaktiot = happo-emäsreaktiot
+- protoni (H<sup>+</sup> -ioni) siirtyy hapolta emäkselle
+- happo-emäsreaktiossa on aina mukana sekä happo että emäs: muuten protonin luovutusta ja vastaanottamista ei voi tapahtua
+  - vesi on *amfolyytti* eli se voi toimia tarpeen mukaan joko happona tai emäksenä: se voi joko luovuttaa protonin jolloin syntyy OH<sup>-</sup> -ioni tai vastaanottaa protonin jolloin syntyy H<sub>3</sub>O<sup>+</sup> -ioni
+
+### Hapetus-pelkistysreaktiot
+- hapettuminen `[O]` = elektronien luovuttamista
+- pelkistyminen `[H]`= elektronien vastaanottamista
+
+Tilannetta voidaan tarkastella erikseen osareaktioiden avulla, mutta niiden avulla saadaan muodostettua myös kokonaisreaktio
+
+Monilla orgaanisilla aineilla elektronit eivät siirry kokonaan atomilta toiselle, jolloin puolireaktiot eivät enää toimi: katso *orgaanisten yhdisteiden hapetus-pelkistysreaktiot* alempaa
+
+### Saostuminen
+Veteen voidaan liuottaa suolojen kautta ioneja, jotka keskenään reagoidessaan muodostavatkin huonosti liukenevia suoloja, jolloin syntyy **saostuma**.
+
+Joidenkin suolojen liukoisuudet riippuvat veden pH:sta, joten pH:ta säätelemällä saadaan halutut aineet saostumaan.
+
+### Kompleksinmuodostus
+Kompleksit ovat yhdisteitä, jotka koostuvat **keskusatomista** (useimmiten metalli-ionista) sekä siihen sitoutuneista **ligandeista**.
+
+Tavallisesta kovalenttisesta sidoksesta poiketen sidokset ovat **koordinaatiosidoksia**, joissa molemmat yhteiset elektronit tulevat ligandilta. Kompleksin muodostumiseksi ligandilla tulee siis olla **vapaa elektronipari**
+
+
 ## Orgaaniset reaktiot
+Reaktioita mallinnetaan **reaktiomekanismeilla**, jotka kuvaavat kuinka **elektronit siirtyvät** atomilta toiselle. Negatiivisesti varautuneiden elektronien liikettä ohjailee Coulombin laki: vastakkaismerkkiset varaukset vetävät toisiaan puoleensa.
 
+Erilaiset yhdisteiden osat ja ionit jaetaan **nukleofiileihin** ja **elektrofiileihin** sen mukaan pystyykö se **luovuttamaan** elektroniparin (nukleofiili) vai **vastaanottamaan** elektroniparin (elektrofiili). Reaktio tapahtuu nukleofiilin ja elektrofiilin välillä.
 
-### Protoninsiirtoreaktio
+Nimiin on helppo muistisääntö:
+- elektrofiili = "elektronin ystävä" = pyrkii kohti negatiivista varausta koska on itse positiivisesti varautunut
+- nukleofiili = "ytimen ystävä" = pyrkii kohti positiivista varausta koska on itse negatiivisesti varautunut
 
 ### Substituutioreaktio
+- atomi(ryhmä) korvautuu toisella
+- nukleofiili hyökkää hiileen jolla on positiivinen osittaisvaraus (esim. toisen atomin elektronegatiivisuuden takia)
+- syntyy sidos nukleofiilin ja hiilen välille, ja samalla vanha sidos hiilen ja poistuvan ryhmän (esim. halogeenin) välillä katkeaa
 
-### Additio ja eliminaatio
+### Eliminaatioreaktio
+- atomiryhmä lohkeaa pois ilman että sen tilalle tulee mitään
+- muodostuu usein kaksois- tai kolmoissidos
+
+### Additioreaktio
+- eliminaation käänteisreaktio: kaksois-/kolmoissidokseen (tai karbonyyliryhmään C=O) liittyy uusi atomiryhmä
+- erilaisia additioreaktioita:
+
+#### > Hydraus eli vedytys
+Kaksoissidos aukeaa, syntyy sidoksia vetyjen kanssa.
+
+Näin saadaan esim. tyydyttymättömät rasvahapot tyydyttymään.
+
+#### > Hydratointi eli veden additio
+Vedestä vety kaksoissidoksen toiseen hiileen, OH-ryhmä toiseen.
+
+**Markovnikovin sääntö**: vety liittyy siihen kaksoissidoksen hiileen jossa vetyä oli ennestään eniten
+
+#### > Halogeenin (esim. Br-Br) tai vetyhalidin (esim. H-Cl) liittäminen
+Markovnikovin sääntö pätee tässäkin.
+
+#### > Polyadditio eli polymeroituminen
+Hiilivedyt voivat kaksoissidosten auetessa liittyä toisiinsa pitkiksi ketjuiksi, polymeereiksi. Esimerkiksi suuresta määrästä etaanimolekyylejä muodostuu polyeteeniä. Muovit koostuvat polymeereistä.
+
+
+
 
 ### Kondensaatio
+**Kaksi molekyyliä liittyy yhteen niin, että niiden välistä lohkeaa pois vettä. Samalla niiden väliin syntyy jokin <u>uusi</u> funktionaalinen ryhmä**
+
+Erilaisia kondensaatioreaktioita:
+#### Esteröityminen
+Karboksyylihappo + alkoholi <=> esteri + vesi
+#### Eetterit
+Alkoholi + alokoholi -> eetteri + vesi
+#### Amidit
+Karboksyylihappo + amiini -> amidi + vesi
+#### Rasvojen saippuoituminen
+Rasvat ovat rasvahappojen ja glyserolin estereitä.
+Kondensaatiossa "esterisidokset" katkeavat, jäljelle jää glyserolia sekä rasvahappojen suolaa. (TODO? MITÄ)
+#### Selluloosa, tärkkelys yms
+Ketjuttuvat kondensaation kautta
+
+### Hapetus-pelkistysreaktiot
+TODO
 
 
 
 
-## Hiiliyhdisteiden nimeäminen
-Selkeät ohjeet kirjassa tai netissä.
 
 # Hienoja löytöjä
 - Hapon konjugaattiemäs syntyy kun happo luovuttaa protonin - kun emäs vastaanottaa protonin, syntyy sitä vastaava konjugaattihappo.
-- protolyysi = happo-emäsreaktio
+- protolyysi = happo-emäsreaktio = protoninsiirtoreaktio
 - neutraloituminenkin on protolyysireaktio
+- neutraloituminen voi tapahtua myös suoraan ilman vesiliosta (voihan?)
 - liukeneminenkin voi olla eksotermista
 - miksi hapot syövyttää: https://www.luma.fi/kysymykset/2009/01/16/syovyttavyys/
   - tldr: hapon luovuttama vetyioni on voimakas hapetin epäjaloille metalleille ja pystyy pilkkomaan orgaanisia yhdisteitä
 - suolasillan ioneita tarvitaan vain galvaanisen kennon ensimmäisten hetkien aikana: kun reaktio on käynnistynyt, elektrolyyttiin syntyvät ionit alkavat kuljettaa varausta suolasiltaa pitkin
 - orbitaalien täyttymisen "puoliksi täysi" -tila
-- *kovalenttinen = ko-valenttinen = yhteisulkoelektroninen*
+- 18 elektronin sääntö siirtymämetalleilla
+- *kovalenttinen = "ko-valenttinen" = "yhteisulkoelektroninen"*
+- ligandi, ei likandi
+- reaktiomekaniikassa hyötyä nukleofiilin ja elektrofiilin käsitteistä
 
 # Asioita jotka *vain pitää muistaa*
 - hapettuminen = elektronien luovuttamista
@@ -228,9 +305,10 @@ Selkeät ohjeet kirjassa tai netissä.
 # Omituisuuksia (lähinnä muistilista selvitettäväksi myöhemmin)
 - Miksi metallisidosta ei luokitella heikoksi sidokseksi, vaikka sen avulla ei muodostu suoloja eikä molekyylejä? Myös kahden eri metallin välillä voi olla metallisidos, eikä silti esimerkiksi pronssille muodosteta molekyylikaavaa CuSn tai messingille CuZn.
 - Onko ionisidoksessa välttämättä kaikilla atomeilla oktetti? Samalla atomilla kuitenkin monta eri hapetuslukua?
-- Hapolle ja emäkselle on monta määritelmää: "riittääkö" Brønsted-Lowryn teoria?
+- Hapolle ja emäkselle on monta määritelmää: "riittääkö" Brønsted-Lowryn teoria? Vai tarvitaanko esim. Lewis-teoriaa johonkin?
 - Miten puskuriliuokset toimii?
 - Miten kompleksit ja koordinaatiosidokset toimii? Mitä elektroneja luovutetaan, onko kovalenttinen sidos?
+- Hydroniumioni vs oksoniumioni - kumpi on oikea nimitys?
 
 
 # Lähteet
@@ -239,3 +317,7 @@ Selkeät ohjeet kirjassa tai netissä.
 - https://otavanopisto.muikkuverkko.fi/workspace/ke2-ihmisen-ja-elinympariston-kemiaa/materials#p-143029
 - https://www.luma.fi/kysymykset/
 - KE1, Päivi Koskinen ja Ari Koskinen, SanomaPro 2016
+- KE2, Päivi Koskinen ja Ari Koskinen, SanomaPro 2017
+- KE3, Päivi Koskinen ja Ari Koskinen, SanomaPro 2017
+- Neon 4, Hannola-Teitto ym., Edita 2006
+- Neon 5, Hannola-Teitto ym., Edita 2007
