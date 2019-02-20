@@ -273,7 +273,11 @@ Kondensaatiossa "esterisidokset" katkeavat, jäljelle jää glyserolia sekä ras
 Ketjuttuvat kondensaation kautta
 
 ### Hapetus-pelkistysreaktiot
-TODO
+- hapettuminen = hapetusluvun kasvua = hapen lisäystä = vedyn vähentymistä
+- pelkistyinen = hapetusluvun pienentymistä = hapen vähentymistä = vedyn lisäystä
+- primäärinen alkoholi <-> aldehydi <-> karboksyylihappo
+- sekundäärinen alkoholi <-> ketoni
+-
 
 
 
@@ -283,7 +287,7 @@ TODO
 - Hapon konjugaattiemäs syntyy kun happo luovuttaa protonin - kun emäs vastaanottaa protonin, syntyy sitä vastaava konjugaattihappo.
 - protolyysi = happo-emäsreaktio = protoninsiirtoreaktio
 - neutraloituminenkin on protolyysireaktio
-- neutraloituminen voi tapahtua myös suoraan ilman vesiliosta (voihan?)
+- neutraloituminen voi tapahtua myös suoraan ilman vesiliosta kun sekä happo että emäs ovat sulia (voihan?)
 - liukeneminenkin voi olla eksotermista
 - miksi hapot syövyttää: https://www.luma.fi/kysymykset/2009/01/16/syovyttavyys/
   - tldr: hapon luovuttama vetyioni on voimakas hapetin epäjaloille metalleille ja pystyy pilkkomaan orgaanisia yhdisteitä
@@ -291,12 +295,21 @@ TODO
 - orbitaalien täyttymisen "puoliksi täysi" -tila
 - 18 elektronin sääntö siirtymämetalleilla
 - *kovalenttinen = "ko-valenttinen" = "yhteisulkoelektroninen"*
-- ligandi, ei likandi
+- li**g**andi, ei li**k**andi
 - reaktiomekaniikassa hyötyä nukleofiilin ja elektrofiilin käsitteistä
+- hapettuminen ja pelkistyminen havaitaan epäorgaanisessa ja orgaanisessa kemiassa hieman eri tavoilla, mutta molemmissa kuitenkin voidaan tarkastella hapetuslukujen muutoksia. Katso Opetus.tv:n video [https://www.youtube.com/watch?v=0FbvWjmr5HE](https://www.youtube.com/watch?v=0FbvWjmr5HE)
+- tasapainottaminen hapetuslukujen avulla on hyödyllinen menetelmä
+- **reaktionopeuksista ei ole puhuttu mitään**
 
 # Asioita jotka *vain pitää muistaa*
-- hapettuminen = elektronien luovuttamista
-- pelkistyminen = elektronien vastaanottamista
+- hapettuminen
+  - elektronien luovuttamista
+  - hapetusluvun kasvua
+  - orgaanisessa kemiassa hapen lisäystä
+- pelkistyminen
+  - elektronien vastaanottamista
+  - hapetusluvun pienentymistä
+  - orgaanisessa kemiassa vedyn lisäystä
 - negatiivinen ioni = anioni
 - positiivinen ioni = kationi
 - happo = aine joka voi luovuttaa protonin
